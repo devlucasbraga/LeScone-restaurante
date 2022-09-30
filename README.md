@@ -21,4 +21,4 @@ Curso do André
 
 ## Link do Projeto final
 
-* [Le Scone](https://restaurantelescone.netlify.app/)
+* [Le Scone](https://le-scone-restaurante.vercel.app/)
